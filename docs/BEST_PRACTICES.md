@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 This is a collection of tips, advice, gotchas and other best practices for using the [Jenkins Pipeline plugin](https://github.com/jenkinsci/workflow-plugin/blob/master/README.md). Contributions and comments are happily accepted.
 
 # General tips and advice
